@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Necessary-Tools
+
+This project is designed to give solution to daily life Problems
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
